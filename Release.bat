@@ -7,6 +7,11 @@ C:\Factory\SubTools\makeDDResourceFile.exe ^
 	out\Resource.dat ^
 	C:\Factory\Program\MaskGZDataForDonut3\MaskGZData.exe
 
+C:\Factory\SubTools\makeDDResourceFile.exe ^
+	res ^
+	out\res.dat ^
+	C:\Factory\Program\MaskGZDataForDonut3\MaskGZData.exe
+
 C:\Factory\SubTools\CallConfuserCLI.exe G4YokoActTK\G4YokoActTK\bin\Release\G4YokoActTK.exe out\G4YokoActTK.exe
 rem COPY /B G4YokoActTK\G4YokoActTK\bin\Release\G4YokoActTK.exe out
 COPY /B G4YokoActTK\G4YokoActTK\bin\Release\Chocolate.dll out
